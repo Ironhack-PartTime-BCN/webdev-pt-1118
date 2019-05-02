@@ -23,13 +23,13 @@ Elena-Claudia
 [Frontend]()
 
 Christoph
-[Slides]()
-[Frontend]()
+[Slides](https://docs.google.com/presentation/d/1EmxYyWHjn8xdyNRBCBe-seNJuOGMbkbhc7dPZqKEdWw/edit#slide=id.g591f4657d7_0_11)
+[Frontend](https://semya-2799e.firebaseapp.com)
 
 Ines-JdeJ
 [Slides]()
-[Frontend]()
+[Frontend](https://unpopular-opinion.firebaseapp.com/)
 
 Monica
-[Slides]()
-[Frontend]()
+[Slides](https://slides.com/monicalopez-4/billy-app)
+[Frontend](https://billy-doc-app.firebaseapp.com/)
