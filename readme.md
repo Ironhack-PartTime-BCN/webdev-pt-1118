@@ -3,7 +3,7 @@ Oriol Carbo
 [Frontend](https://grapes-571e3.firebaseapp.com/)
 
 Marco-Alvaro
-[Slides](https://slides.com/margal/travelbid/edit)
+[Slides](https://slides.com/margal/travelbid)
 [Frontend](https://travelbid-1552229318200.firebaseapp.com/)
 
 Nestor
