@@ -33,3 +33,7 @@ Ines-JdeJ
 Monica
 [Slides](https://slides.com/monicalopez-4/billy-app)
 [Frontend](https://billy-doc-app.firebaseapp.com/)
+
+Zuzana
+[Slides](https://slides.com/zuzananovakova/deck-2)
+[Frontend](https://get-your-project-done.firebaseapp.com)
